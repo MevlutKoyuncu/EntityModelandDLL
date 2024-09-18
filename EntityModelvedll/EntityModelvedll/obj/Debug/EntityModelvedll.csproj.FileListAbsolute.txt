@@ -1,0 +1,10 @@
+C:\Users\Mevlut\source\repos\EntityModelvedll\EntityModelvedll\bin\Debug\EntityModelvedll.exe.config
+C:\Users\Mevlut\source\repos\EntityModelvedll\EntityModelvedll\bin\Debug\EntityModelvedll.exe
+C:\Users\Mevlut\source\repos\EntityModelvedll\EntityModelvedll\bin\Debug\EntityModelvedll.pdb
+C:\Users\Mevlut\source\repos\EntityModelvedll\EntityModelvedll\bin\Debug\VeriErisimKatmani.dll
+C:\Users\Mevlut\source\repos\EntityModelvedll\EntityModelvedll\bin\Debug\VeriErisimKatmani.pdb
+C:\Users\Mevlut\source\repos\EntityModelvedll\EntityModelvedll\obj\Debug\EntityModelvedll.csproj.AssemblyReference.cache
+C:\Users\Mevlut\source\repos\EntityModelvedll\EntityModelvedll\obj\Debug\EntityModelvedll.csproj.CoreCompileInputs.cache
+C:\Users\Mevlut\source\repos\EntityModelvedll\EntityModelvedll\obj\Debug\EntityMo.E100DA08.Up2Date
+C:\Users\Mevlut\source\repos\EntityModelvedll\EntityModelvedll\obj\Debug\EntityModelvedll.exe
+C:\Users\Mevlut\source\repos\EntityModelvedll\EntityModelvedll\obj\Debug\EntityModelvedll.pdb

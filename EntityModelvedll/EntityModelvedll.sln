@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityModelvedll", "EntityModelvedll\EntityModelvedll.csproj", "{2EB30434-6AF7-4A75-B394-3357DB11C91C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriErisimKatmani", "VeriErisimKatmani\VeriErisimKatmani.csproj", "{E355E187-9819-4A0D-B3ED-DA4CA43CB6B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EB30434-6AF7-4A75-B394-3357DB11C91C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB30434-6AF7-4A75-B394-3357DB11C91C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB30434-6AF7-4A75-B394-3357DB11C91C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB30434-6AF7-4A75-B394-3357DB11C91C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E355E187-9819-4A0D-B3ED-DA4CA43CB6B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E355E187-9819-4A0D-B3ED-DA4CA43CB6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E355E187-9819-4A0D-B3ED-DA4CA43CB6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E355E187-9819-4A0D-B3ED-DA4CA43CB6B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B55EEC42-26E7-4AF5-B184-55457D00B3B4}
+	EndGlobalSection
+EndGlobal

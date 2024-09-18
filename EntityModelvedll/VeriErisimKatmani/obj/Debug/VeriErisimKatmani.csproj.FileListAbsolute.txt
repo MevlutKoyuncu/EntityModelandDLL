@@ -1,0 +1,6 @@
+C:\Users\Mevlut\source\repos\EntityModelvedll\VeriErisimKatmani\bin\Debug\VeriErisimKatmani.dll
+C:\Users\Mevlut\source\repos\EntityModelvedll\VeriErisimKatmani\bin\Debug\VeriErisimKatmani.pdb
+C:\Users\Mevlut\source\repos\EntityModelvedll\VeriErisimKatmani\obj\Debug\VeriErisimKatmani.csproj.AssemblyReference.cache
+C:\Users\Mevlut\source\repos\EntityModelvedll\VeriErisimKatmani\obj\Debug\VeriErisimKatmani.csproj.CoreCompileInputs.cache
+C:\Users\Mevlut\source\repos\EntityModelvedll\VeriErisimKatmani\obj\Debug\VeriErisimKatmani.dll
+C:\Users\Mevlut\source\repos\EntityModelvedll\VeriErisimKatmani\obj\Debug\VeriErisimKatmani.pdb
